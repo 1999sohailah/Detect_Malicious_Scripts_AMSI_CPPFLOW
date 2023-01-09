@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  AmsiProvider.cpp
+C:\Users\Administrator\Desktop\AMSI_GP\AmsiProvider.cpp(257,119): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+     Creating library C:\Users\Administrator\Desktop\AMSI_GP\x64\Debug\AmsiProvider.lib and object C:\Users\Administrator\Desktop\AMSI_GP\x64\Debug\AmsiProvider.exp
+  AmsiProvider.vcxproj -> C:\Users\Administrator\Desktop\AMSI_GP\x64\Debug\AmsiProvider.dll

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Administrator\AppData\Local\Programs\Python\Python310\Lib\site-packages\tensorflow\include\tensorflow\c\c_api.h(964,68): warning C4190: 'TF_NewWhile' has C-linkage specified, but returns UDT 'TF_WhileParams' which is incompatible with C
+C:\Users\Administrator\AppData\Local\Programs\Python\Python310\Lib\site-packages\tensorflow\include\tensorflow\c\c_api.h(920,16): message : see declaration of 'TF_WhileParams'
+  aaaa.vcxproj -> C:\Users\Administrator\Desktop\cppflow_code\x64\Debug\aaaa.exe

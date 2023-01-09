@@ -1,0 +1,2 @@
+C:\Users\medot\Desktop\amsi omr\microsoft windows-classic-samples main Samples-AmsiProvider\x64\Debug\AmsiProvider.dll
+C:\Users\Administrator\Desktop\AMSI_GP\x64\Debug\AmsiProvider.dll
